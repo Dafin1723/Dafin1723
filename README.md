@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi BROO, I USE GITHUB BTW 👋
 
 <!--
 **Dafin1723/Dafin1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+- 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
