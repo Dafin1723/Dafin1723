@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ##### Connect With Me
 ![https://www.instagram.com/dapinn_1723](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-dafin-rifat-zulfaqqar-4a7a3631a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 [![Dafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dafin1723)](https://github.com/anuraghazra/github-readme-stats)
 
 
