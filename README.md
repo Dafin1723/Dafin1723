@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<<<<<<< HEAD
 - 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
-=======
+
 ![Muhamad Dafin](img/Desain%20tanpa%20judul.png)
 - 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Dewveloper.
->>>>>>> 97c57a9 (Update README dan tambah gambar)
