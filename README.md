@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-- 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
 
 ![Muhamad Dafin](img/banner.png)
+- 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
+
+##### Skils
+<img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
