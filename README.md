@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 
 ![Muhamad Dafin](img/banner.png)
+
+##### Hi, I’m Dafin 👋
+I’m an SMK student passionate about web development, networking, Linux, and basic blockchain. I love exploring new technologies, experimenting with projects, and learning by doing. Always curious, always improving, and excited to share what I learn with the community.
 - 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
 
 ##### Skils
