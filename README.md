@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning in course **Cyfrin-Updraft** : Blockchain Security, Smart Contract, and Blockchain Developer.
 
-![Muhamad Dafin](img/Desain%20tanpa%20judul.png)
+![Muhamad Dafin](img/banner.png)
