@@ -29,7 +29,7 @@ I’m an SMK student passionate about web development, networking, Linux, and ba
 
 
 #### Connect With Me
-![https://www.instagram.com/dapinn_1723](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-dafin-rifat-zulfaqqar-4a7a3631a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![123](https://www.instagram.com/dapinn_1723)(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-dafin-rifat-zulfaqqar-4a7a3631a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
